@@ -1,2 +1,2 @@
-# API-practice
-practicing using API with JSON data in python
+# finance api application
+practicing using yfinance API with JSON data in python
